@@ -1,0 +1,5 @@
+{
+    "^m"  = "insertNewline:";
+    "^u"  = "deleteToBeginningOfLine:";
+    "^i"  = "insertTab:";
+}
